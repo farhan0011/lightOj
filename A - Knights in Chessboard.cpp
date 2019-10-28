@@ -1,5 +1,21 @@
 #include<bits/stdc++.h>
 using namespace std;
+/*
+n==2||m==2
+HH
+HH
+AA
+AA
+
+HHAA
+HHAA
+that's mean 4ta kore 
+sajabo
+OR
+HAHAHA
+AHAHAH
+HAHAHA
+*/
 int res(int m,int n)
 {
     if(n==1||m==1)
